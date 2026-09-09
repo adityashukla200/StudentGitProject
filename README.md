@@ -4,3 +4,7 @@ Roll Number: 19
 Course: B.Tech CSEAI
 This project demonstrates basic Git operations.
 # StudentGitProject
+
+
+
+Git allows distributed collaboration.
